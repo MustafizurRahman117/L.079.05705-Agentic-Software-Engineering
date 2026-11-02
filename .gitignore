@@ -9,10 +9,5 @@
 /placement_test_1/*
 # ... except these files:
 !/placement_test_1/check_requirement_file.py
-!/placement_test_1/check_answer.py
-!/placement_test_1/explanation.md
 !/placement_test_1/requirements.txt
-!/placement_test_1/testrequirements.txt
-!/placement_test_1/teserequirementans.txt
 !/placement_test_1/output_requirements.txt
-!/placement_test_1/output_testrequirements.txt
